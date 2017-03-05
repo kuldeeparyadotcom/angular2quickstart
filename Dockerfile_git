@@ -5,5 +5,5 @@ VOLUME /data
 WORKDIR /data
 
 RUN yum -y update && yum -y install sudo tmux tree git vim
-git config --global user.name "KD"
-git config --global user.email "kuldeeparyadotcom@gmail.com"
+RUN git config --global user.name "KD"
+RUN git config --global user.email "kuldeeparyadotcom@gmail.com"
