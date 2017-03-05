@@ -1,3 +1,5 @@
+Angular 2 Quickstart seed project
+
 Reference
 https://angular.io/docs/ts/latest/guide/setup.html
 
