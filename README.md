@@ -19,3 +19,12 @@ docker run -it --name quickstart_node -p 3000:3000 -p 3001:3001  -v /Users/KD/qu
 
 Get in to quickstart_node container to execute node commands
 docker exec -it quickstart_node /bin/bash
+
+***Till this point, you should have running Angular 2 Seed Project***
+
+#Code Editor
+You can pick up any code editor of your choice.
+i.e. http://code.visualstudio.com
+Open your code directory i.e. /Users/KD/quickstart/quickstart and start modifying Angular 2 Quick Start Seed project.
+
+Thank You!
